@@ -19,12 +19,12 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jodene                          # the main title
+title: Jodene's Log                          # the main title
 
-tagline: WvW Logs   # it will display as the sub-title
+tagline: WvW Logs and Videos   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A place to put WvW Logs
+  A place for Jodene to put WvW Logs and Videos
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://JodeneGW2.github.io'
@@ -37,6 +37,7 @@ social:
   email: JodeneSparksGW2@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - ~
 
 google_site_verification:               # fill in to your verification string
 
