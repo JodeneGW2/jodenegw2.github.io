@@ -43,10 +43,10 @@ copyright:
 meta: Using the :PLATFORM theme :THEME.
 
 not_found:
-  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statment: Sorry, those logs don't exist
 
 notification:
-  update_found: A new version of content is available.
+  update_found: New logs are available!
   update: Update
 
 # ----- Posts related labels -----
